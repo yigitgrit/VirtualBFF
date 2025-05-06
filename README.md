@@ -72,7 +72,7 @@ We welcome contributions from the community! Check out [CONTRIBUTING.md](CONTRIB
 ## Contact
 For questions, suggestions, or feedback, please reach out via:
 - Email: yigit.gritt@gmail.com
-- GitHub Issues: [VirtualBFF Issues Page](https://github.com/yourusername/VirtualBFF/issues)
+- GitHub Issues: [VirtualBFF Issues Page](https://github.com/yigitgrit/VirtualBFF/issues)
 
 ---
 
